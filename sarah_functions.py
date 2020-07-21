@@ -40,9 +40,9 @@ def day_week(date):
     
     weekdays= ['monday','tuesday','wednesday','thursday','friday','saturday','sunday']
     
-    year=int(date.split('/')[2])
-    month=int(date.split('/')[0])
-    day = int(date.split('/')[1])
+    year=int(date.split('-')[0])
+    month=int(date.split('-')[1])
+    day = int(date.split('-')[2])
     
     dt=datetime.datetime(year,month,day)
     
