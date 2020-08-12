@@ -3,6 +3,12 @@
 ### Introduction
 A project to study whether drawing is a useful strategy to learn about abstract scientific concepts. In two notebooks, I analyze data collected from 500 individuals who participated in one of two experiments on ths topic. Participants were randomly assigned to either study or copy an instructor-created drawing, complete a scaffolded drawing worksheet, or to draw on a blank sheet of paper while reading about an abstract concept or a physical system. We found evidence that drawing without guidance most effectively encourages retention but not transfer when the lesson is abstract. Drawing did not encourage retention or transfer when the lesson was on a physical system. 
 
+### Background
+
+Researchers have studied whether drawing helps students learn the structure and function of physical systems. Although the results are mixed and not all find a benefit to drawing (Van Meter and Garner 2005), they generally find that the efficacy of drawing to learn depends on a few factors. These factors include the accuracy of the drawing, the prior knowledge of the learner, and the level of guidance provided during the drawing process (Fiorella & Zhang, 2018), where novices benefit from greater guidance (Van Meter, 2001). However, what if the accuracy of the learners’ drawings did not matter? We propose that when there is no correct way to represent the contents of a lesson in a drawing, it is less important that students draw exactly what an instructor would produce as these representations are arbitrary. This may mean that even without guidance, student-generated drawings may improve learning by more effectively capturing students’ thinking and prompting them to build visual representations that they find memorable. 
+
+
+
 ### Files
 
 `Experiment1.ipynb`
@@ -21,3 +27,7 @@ A project to study whether drawing is a useful strategy to learn about abstract 
 
 ### Affiliations
 All work done in collaboration with the [Learning and Instruction in Multimedia Environments (LIME) lab](https://www.lime-lab-ucsd.com/) at the University of California, San Diego.
+
+### References
+1. Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and synthesis. Educational Psychology Review, 17(4), 285-325.
+2. Fiorella, L., & Zhang, Q. (2018). Drawing boundary conditions for learning by drawing. Educational Psychology Review, 30(3), 1115-1137.
