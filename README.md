@@ -30,7 +30,8 @@ Researchers have studied whether drawing helps students learn the structure and 
 ### Results
 
 ###### Experiment 1
-![](https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/Screen%20Shot%202020-08-12%20at%201.25.01%20PM.png)
+
+<img src="https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/Screen%20Shot%202020-08-12%20at%201.25.01%20PM.png">
 
 ###### Experiment 2
 
