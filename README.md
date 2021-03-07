@@ -30,9 +30,15 @@ Researchers have studied whether drawing helps students learn the structure and 
 ### Results
 
 ###### Experiment 1
-![alt text](https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/Screen%20Shot%202020-08-12%20at%201.25.01%20PM.png)
+<img src="https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/exp1_mc.png"  width="800" />
+
+<img src="https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/exp1_retention.png"  width="800" />
 
 ###### Experiment 2
+
+<img src="https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/exp2_mc.png"  width="800" />
+
+<img src="https://github.com/SarahAmiraslani/Draw-to-learn-science/blob/master/exp2_retention.png"  width="800" />
 
 ### Affiliations
 All work done in collaboration with the [Learning and Instruction in Multimedia Environments (LIME) lab](https://www.lime-lab-ucsd.com/) at the University of California, San Diego.
